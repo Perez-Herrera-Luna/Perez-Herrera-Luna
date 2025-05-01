@@ -3,13 +3,15 @@
 </p>
 
 <h1 align="center">
-  Reach me on my LinkedIn!
+  Where can you find me?
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/luna-perez-herrera-816815339/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
-</a>
+<a href="https://github.com/Perez-Herrera-Luna" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/luna-perez-herrera-816815339" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/LuaPanic" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="mailto:lunaperezherrera@gmail.com" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
